@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
@@ -94,7 +95,7 @@
     <h2>Contact</h2>
     <div class="info">
         <p><i class="fa-solid fa-user icon"></i>Paul Abiodun</p>
-        <p><i class="fa-solid fa-location-dot icon"></i>Liverpool, UK</p>
+        <p><i class="fa-solid fa-location-dot icon"></i>Nottingham, UK</p>
         <p><i class="fa-solid fa-phone icon"></i>+44 (0) 772 150 2616</p>
         <p><i class="fa-solid fa-envelope icon"></i>paulaxcity@yahoo.com</p>
     </div>
@@ -113,7 +114,7 @@
 
     <h2>Additional</h2>
     <p><i class="fa-solid fa-id-card icon"></i>Full UK Driving Licence</p>
-    <p><i class="fa-solid fa-gamepad icon"></i>Traveling & Gaming, Sport</p>
+    <p><i class="fa-solid fa-gamepad icon"></i>Travelling & Gaming</p>
 </div>
 
 <div class="main">
