@@ -48,7 +48,7 @@
 
     .main {
         flex: 1;
-        padding: 35px 50px;
+        padding: 35px 40px;
     }
 
     h1 {
